@@ -1,0 +1,6 @@
+## installed module
+## numpy, pandas, math
+## if you need to install pandas, Run "CMD" as the administrator.
+## And then, put below in the code to your console
+## pip install pandas
+## pip install --upgrade pip
